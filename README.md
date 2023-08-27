@@ -8,7 +8,7 @@
 ```
 git remote add <namefor repository> <url-adress repository in internet>
 ```
-```С++
+```С#
 while(n < 0)
 {
   n++;
