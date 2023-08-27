@@ -8,3 +8,9 @@
 ```
 git remote add <namefor repository> <url-adress repository in internet>
 ```
+```С++
+while(n < 0)
+{
+  n++;
+} 
+```
